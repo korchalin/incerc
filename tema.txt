@@ -1,0 +1,501 @@
+atop
+ok
+sudo install htpd
+sudo yum -y install httpd
+ls --all
+ls -all
+cd /etc/httpd/
+ls -all
+sudo yum install nano
+cd /var/www/html
+sudo yum install nano
+cd /var/https://elearning.unitbv.ro/course/index.php?categoryid=141
+nano https://elearning.unitbv.ro/course/index.php?categoryid=141
+sudo nano test.html
+http://F/test.html
+sudo service httpd start
+sudo netstat -yulnp
+sudo netstat -tulnp
+sudo shutdown -h now
+mvn -version
+sudo yum install -y java-1.8.0-openjdk-devel
+java -version
+cd /usr/local/src/
+sudo wget
+http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo wget
+sudo yum wget install
+sudo yum install wget
+http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz
+cd /etc/profile.d/
+sudo nano maven.sh
+clear
+sudo cat /home/korch_alin/.jenkins/secrets/initialAdminPassword
+c65d9f8f6fd945989f92ca0cc86a9cb4
+cd /usr/local/src/
+http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo firewall-cmd --permanent --zone=public --add-port=8080/tcp
+sudo firewall-cmd –reload
+sudo firewall-cmd -–reload
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+%JENKINS_HOME%/jenkins.out
+%JENKINS_HOME%/jenkins.err
+%JENKINS_HOME%/jenkins.xml
+aletrnatives --config java
+aleternatives --config java
+alternatives -- config java
+alternatives --config java
+mvn -version
+mvn --version
+mvn -version
+cd /usr/local/src/
+sudo wget
+http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz 
+sudo mv apache-maven-3.6.0/ apache-maven/
+java -version
+http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo wget http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz
+sudo mv apache-maven-3.6.0/ apache-maven/
+sudo yum install git
+git --version
+sudo yum groupinstall "Development Tools"
+sudo yum install gettext-devel openssl-devel perl-CPAN perl-devel zlib-devel
+wget https://github.com/git/git/archive/v2.20.0-rc1.tar.gz
+tar -zxf git.tar.gz
+tar --zxf git.tar.gz
+tar -zxf git.tar.gz
+cd git-*
+git -version
+git --version
+ls
+cd mavenp
+ls
+cd mavenp
+ls
+cd devops-curs
+ls
+pwd
+mvn -version
+ls -all
+cd ..
+ls
+cd ..
+ls
+cd mavenp/
+ls
+cd ../../..
+ls 
+cd korch_alin/
+ls -all
+cd .jenkins/
+LS
+ls
+cd ..
+ls 
+cd mavenp/mavenp/devops-curs/
+pwd
+mkdir jenkins
+cd jenkins/
+wget http://mirrors.jenkins.io/war-stable/latest/jenkins.war
+java -jar jenkins.war
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz
+pwd
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz 
+sudo mv apache-maven-3.6.0/ apache-maven/
+sudo mv apache-maven-3.6.0/ ls
+ls
+mkdir maven
+ls
+cd /usr/local/src/
+sudo wget http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz 
+sudo mv apache-maven-3.6.0/ apache-maven/
+ls
+cd /etc/profile.d/
+sudo nano maven.sh
+sudo chmod +x maven.sh 
+source /etc/profile.d/maven.sh 
+mvn -version
+cd /home/korch_alin/
+ls
+mvn -version
+groupID=devops.course
+artifactID=devops-course
+maven arketype:generate
+mvn archetype:generate
+mkdir manenp
+cd mavenp
+mkdir mavenp
+cd mavenp
+mvn archtype:generate
+etc/profile.d/
+cd maVENP
+cd mavenp
+ls
+cd..
+cd mavenp
+mkdir mavenp
+cd mavenp
+mvn archetype:generate
+ls
+pwd
+sudo git clone https://github.com/elenabizoistudent/maven.git 
+ls
+cd maven
+ls
+pwd
+cd..
+cd ..
+ls
+cd mavenp
+ls
+cd dev
+cd ..
+cd home
+ls
+cd mavenp
+nano /etc/profile.d/maven.sh 
+ls
+cd korch_alin
+ls
+mkdir docker
+sudo yum install -y yum-utils   device-mapper-persistent-data   lvm2
+sudo yum-config-manager     --add-repo
+sudo yum-config-manager --add-repo
+sudo yum-config-manager     --add-repo  https://download.docker.com/linux/centos/docker-ce.repo
+sudo yum install docker-ce
+sudo systemctl start docker
+sudo docker run hello-world
+sudo docker images
+sudo docker ps
+sudo docker -a ps
+sudo docker run debian ls
+sudo docker run -it debian bin/bash
+sudo docker ps -a
+sudo docker start -a -i 33bed4ce36f5 
+sudo docker run -it --name n1 -p 8080 nginx
+sudo docker run -it --name n1 -p 80:80 nginx 
+history
+history -w history.txt
+ls
+sudo docker run hello-world
+sudo docker prune -a
+sudo docker run hello-world
+sudo docker ps
+sudo docker system prune -a
+nano Dockerfile
+http://35.231.76.33:8080/job/docker%201/1/curs.devops$aplicatie-devops/artifact/curs.devops/aplicatie-devops/1.0-SNAPSHOT/aplicatie-devops-1.0-SNAPSHOT.war
+ls
+cd ..
+ls
+mk docker
+mkdir docker
+cd
+cd ls
+ls
+cd docker
+ls
+nano Dockerfile 
+sudo docker build -t hefesita/aplicatie:1
+sudo docker build -t hefesita/aplicatie:1 .
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1
+nano Dockerfile
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1 .
+nano Dockerfile
+ls
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1 .
+sudo docker build -t hefesita/aplicatie:1 .
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1
+cd ..
+ls
+cd ..
+ls
+mkdir Tema
+ls
+cd korch_alin
+ls
+mkdir Tema
+cd Tema
+echo "# Tema" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/korchalin/Tema.git
+git push -u origin mastergit in
+git init
+nano test.txt
+git add test.txt
+git commit -m'test.txt'
+git commit -m 'test.txt'
+git config --global username korchalin
+git config --global korchalin
+git config --global user.email "korch.alin@gmail.com"
+git config --global user.name "Your Name"
+git config --global user.name "korchalin"
+git commit -m 'test.txt'
+git commit -m "first commit"
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/korchalin/Tema.git
+git push -u origin master
+git add test.txt
+git commit -m 'test.txt'
+git push origin master
+history -w tema.txt
+git add tema.txt
+git commit -m 'tema.txt'
+git push origin master
+cd
+ls -a
+pwd 
+ls -a
+md jenkins
+mkd jenkins
+mkdir jenkinsNou
+history
+nano Dockerfile
+FROM tomcat:8.0
+ADD ‘jenkins/aplicatie-devops-1.0-SNAPSHOT.war&#39; /usr/local/tomcat/webapps/
+sudo yum install docker-ce
+sudo systemctl start docker
+sudo docker run hello-world
+sudo docker build -t hefesita/aplicatie:1
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1
+history 
+cd jenkinsNou
+wget http://mirrors.jenkins.io/war-stable/latest/jenkins.war
+java -jar jenkins.war
+mvn archetype:generate -DgroupId=com.devops -DartifactId=SampleWebApplication -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+ls -a
+git commit -m "first commit"
+git add exercitiul1.txt
+git init
+ls
+git remote add origin https://github.com/korchalin/exercitiul1.git
+git push -u origin mastergit in
+git init
+nano test.txt
+git add test.txt
+nano test.txt
+LS
+ls
+nano ex1.txt
+git add test.txt
+ls
+git commit -m'test.txt'
+git add ex1.txt
+nano ex1.txt
+git add ex1.txt
+git commit -m'test.txt'
+git config --global username korchalin
+git commit -m 'ex1.txt'
+ls
+git config --global username korchalin
+git init
+nano SampleWebApplication
+cat SampleWebApplication
+cd SampleWebApplication
+ls
+cd src/main/webapp/
+cat index.jsp 
+nano index.jsp 
+git commit -m "first commit"
+git remote add origin https://github.com/korchalin/Exercitiul1.git
+git push -u origin master
+git push -f origin
+git push -f origin master
+cd..
+cd \
+cd /
+cd home/korch_alin/jenkinsNou
+git add SampleWebApplication/
+git commit 
+git commit -m
+git commit -m "Alin Korch"
+git push origin master
+history -w all.txt
+ls
+git add all.txt 
+git commit -m "Alin Korch"
+git push origin master
+ls
+cd /
+cd/
+7cd:
+cd..
+cd /
+cd \
+cd ~
+cd:
+cd..
+cd../
+cd..\
+pwd
+cd /
+pwd
+cd..
+cd..\
+cd../
+pwd
+cd /home/korch_alin/
+ls
+cd junkinsNou
+ls
+cd jenkinsNou
+git init
+nano SampleWebApplication
+cat SampleWebApplication
+ls -a
+cd SampleWebApplication/
+nano SampleWebApplication
+ls
+nano SampleWebApplication
+cd src/main/webapp/
+cat index.jsp
+nano index.jsp
+git commit -m "first commit"
+git remote add origin https://github.com/korchalin/Exercitiul1.git
+git push -u origin master
+git push -f origin master
+cd /home/korch_alin/.jenkins/workspace
+ls
+cd pct2/
+ls
+mvn -version
+FROM tomcat:8.0
+ADD ‘ADD ‘jenkins/aplicatie-devops-1.0-SNAPSHOT.war' /usr/local/tomcat/webapps/' /usr/local/tomcat/webapps/
+nano Dockerfile
+ls
+sudo docker build -t pct2/Dockerfile
+sudo docker build -t pct2/dockerfile
+sudo docker build -t pct2/dockerfile:1
+add ‘ADD ‘jenkins/aplicatie-devops-1.0-SNAPSHOT.war' /usr/local/tomcat/webapps/'
+add ‘ADD ‘jenkins/aplicatie-devops-1.0-SNAPSHOT.war' /usr/local/tomcat/webapps/
+FROM tomcat:8.0 ‘ADD ‘jenkins/aplicatie-devops-1.0-SNAPSHOT.war' /usr/local/tomcat/webapps/
+FROM tomcat:8.0 ADD http://35.231.115.20:8080/job/pct2/lastStableBuild/com.devops$SampleWebApplication/artifact/com.devops/SampleWebApplication/1.0-SNAPSHOT/SampleWebApplication-1.0-SNAPSHOT.war
+nano Dockerfile 
+sudo docker build -t hefesita/aplicatie:1
+sudo docker build -t hefesita/aplicatie:1.
+ld
+ls
+nano Dockerfile 
+ls
+sudo docker build -t hefesita/aplicatie:1 .
+sudo service docker start
+sudo docker build -t hefesita/aplicatie:1 .
+nano Dockerfile 
+sudo service http desktop
+sudo service httpd desktop
+sudo service httpd desktop stop
+sudo service httpd stop
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1
+sudo docker run -d --name t2 -p 80:8080 hefesita/aplicatie:1
+history -h
+history -w alin.txt
+pwd
+cd /home/korch_alin/
+la
+ls
+cd jenkinsNou/
+ls
+cd SampleWebApplication/
+ls
+cd..cd /home/korch_alin/
+history -w alin.txt
+la
+ls
+add alin.txt
+git add alin.txt
+git commit -m 'alin.txt'
+git commit -m'alin.txt'
+git init
+git add alin.txt
+git commit -m'alin.txt'
+git push -u origin master
+git push origin master
+git remote add origin https://github.com/korchalin/Exercitiul1.git
+git push -u origin master
+git commit -m "first commit"
+git remote add origin https://github.com/korchalin/Exercitiul1.git
+git push -f origin master
+sudo firewall-cmd --permanent --zone=public --add-port=8080/tcp
+sudo firewall-cmd –reload
+sudo firewall-cmd --permanent --zone=public --add-port=8080/tcp
+sudo firewall-cmd –reload
+history 
+sudo firewall-cmd -–reload
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+sudo firewall-cmd -–reload
+ls
+cd jenkins
+ls
+java -jar jenkins.war 
+sudo systemctl start docker
+sudo docker run hello-world
+ls
+cd jenkinsNou
+sudo firewall-cmd --permanent --zone=public --add-port=8080/tcp
+ls
+cd..
+home/jenkins
+mvn archetype:generate -DgroupId=com.devops -DartifactId=SampleWebApplication -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+ls-a
+ls -a
+git commit -m "first commit"
+ls -a
+git commit -m "first commit"
+mkdir Alin
+history
+nano Dockerfile
+FROM tomcat:8.0
+from tomcat:8.0
+add 'ADD ‘jenkins/aplicatie-devops-1.0-SNAPSHOT.war&#39; /usr/local/tomcat/webapps/
+sudo yum install docker-ce
+sudo systemctl start docker
+sudo docker run hello-world
+sudo docker build -t hefesita/aplicatie:1
+exit
+ls
+cd jenkins
+java -jar jenkins.war 
+ls -a
+cd Alin
+mvn archetype:generate -DgroupId=com.devops -DartifactId=SampleWebApplication -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+ls -a
+git commit -m "first commit"
+git add incerc.txt
+ls-a
+ls -a
+cd SampleWebApplication/
+ls -a
+git init
+cd ..
+git init
+cd ..
+git init
+cd Alin
+git init
+echo "# incerc" >> README.md
+ls -a
+git init
+git add README.md
+ls -a
+git commit -m "first commit"
+git remote add origin https://github.com/korchalin/incerc.git
+git push -u origin master
+ls -a
+git init
+nano test.txt
+git add test.txt 
+git commit -m 'test.txt'
+git commit -m "first commit"
+git remote add origin https://github.com/korchalin/incerc.git
+git push -u origin master
+git add test.txt
+git commit -m 'test.txt'
+git push origin master
+history -w tema.txt
